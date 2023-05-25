@@ -1,1 +1,1 @@
-# spring-bean-config
+# spring-bean-config (with custom name: "aquatic")
